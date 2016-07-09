@@ -14,7 +14,7 @@ var lists = [{
 }, {
   name: 'school', tasks: ['homework', 'study for the test']
 }, {
-  name: 'work', tasks: ['get rich', 'get that promotion', 'slap the CEO in the face']
+  name: 'work', tasks: ['make protype', 'do marketing', 'launch website']
 }];
 
 // app.get('/api/hello-world', function(req, res) {

@@ -37,7 +37,7 @@ h3 {
   }
 
   .card {
-    padding: 20px;
+    padding: 10px;
     margin: 10px 0;
     border: 1px solid #5d5d5d;
     border-radius: 2px;
@@ -47,3 +47,35 @@ h3 {
     .card:hover {
       background-color: #eee;
     }
+
+.inputField {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #5d5d5d;
+    border-radius: 2px;
+    /*width: 75%;*/
+    max-width: 66%;
+  }
+
+    .input:hover {
+      background-color: #eee;
+    }
+
+.inputBtn {
+    padding: 10px;
+    margin: 10px 0 0 10px;
+    border: 1px solid #5d5d5d;
+    border-radius: 2px;
+    /*cursor: -webkit-grab;*/
+    float: right;
+    max-width: 33%;
+  }
+
+    .input:hover {
+      background-color: #eee;
+    }
+
+.test {
+  margin: 0px;
+  padding: 0px;
+}
